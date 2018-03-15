@@ -16,6 +16,7 @@
     "express": "^4.15.2",
     "https": "^1.0.0",
     "node-bing-api": "^3.2.2",
+    "path": "^0.12.7",
     "shelljs": "^0.8.1",
     "socketio": "^1.0.0"
   }

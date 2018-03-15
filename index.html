@@ -1,37 +1,411 @@
 <!DOCTYPE html>
-<html>
+<html lang="zxx" class="no-js">
 <head>
+	<!-- Mobile Specific Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Favicon-->
+	<link rel="shortcut icon" href="img/fav.png">
+	<!-- Author Meta -->
+	<meta name="author" content="CodePixar">
+	<!-- Meta Description -->
+	<meta name="description" content="">
+	<!-- Meta Keyword -->
+	<meta name="keywords" content="">
+	<!-- meta character set -->
+	<meta charset="UTF-8">
+	<!-- Site Title -->
 	<title>Tweeting Pigeon</title>
-	<!--Writing all the required stuff in the meta description tags-->	
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name = "description" content="A simple web chat application for a course project">
-	<meta name = "keywords" content = "tweets, breaking news, streaming, trending">
-	<meta name = "author" content="ATeamHasNoName">
-	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Quicksand">
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<script type="text/javascript" src="/socket.io/socket.io.js"></script>
-</head>
-<body>
 
-	<h1> Tweeting Pigeon | code.fun.do </h1>
+	<link href="https://fonts.googleapis.com/css?family=Poppins:300,500,600" rel="stylesheet">
+		<!--
+		CSS
+		============================================= -->
+		<link rel="stylesheet" href="css/linearicons.css">
+		<link rel="stylesheet" href="css/owl.carousel.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/nice-select.css">
+		<link rel="stylesheet" href="css/magnific-popup.css">
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="css/main.css">
+		<script>
+function loadXMLDoc() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      document.getElementById("tweet1h").innerHTML =
+      this.responseText;
+    }
+  };
+  xhttp.open("GET", "../../output/tweet1.txt", true);
+  xhttp.send();
+}
+loadXMLDoc();
+</script>
+<script>
+function loadXMLDoc() {
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+	document.getElementById("tweet2h").innerHTML =
+	this.responseText;
+}
+};
+xhttp.open("GET", "../../output/tweet2.txt", true);
+xhttp.send();
+}
+loadXMLDoc();
+</script>
+<script>
+function loadXMLDoc() {
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+	document.getElementById("tweet3h").innerHTML =
+	this.responseText;
+}
+};
+xhttp.open("GET", "../../output/tweet3.txt", true);
+xhttp.send();
+}
+loadXMLDoc();
+</script>
+<script>
+function loadXMLDoc() {
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+	document.getElementById("tweet4h").innerHTML =
+	this.responseText;
+}
+};
+xhttp.open("GET", "myfile.txt", true);
+xhttp.send();
+}
+loadXMLDoc();
+</script>
+<script>
+function loadXMLDoc() {
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+	document.getElementById("tweet5h").innerHTML =
+	this.responseText;
+}
+};
+xhttp.open("GET", "../../output/tweet5.txt", true);
+xhttp.send();
+}
+loadXMLDoc();
+</script>
+<script>
+function loadXMLDoc(filename) {
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+	document.getElementById("tweet6h").innerHTML =
+	this.responseText;
+}
+};
+xhttp.open("GET", "../../output/tweet6.txt", true);
+xhttp.send();
+}
+loadXMLDoc();
+</script>
+		<script>
+function loadXMLDoc() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      document.getElementById("tweet1").innerHTML =
+      this.responseText;
+    }
+  };
+  xhttp.open("GET", "../../output/tweet1_summary.txt", true);
+  xhttp.send();
+}
+loadXMLDoc();
+</script>
+<script>
+function loadXMLDoc() {
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+	document.getElementById("tweet2").innerHTML =
+	this.responseText;
+}
+};
+xhttp.open("GET", "../../output/tweet2_summary.txt", true);
+xhttp.send();
+}
+loadXMLDoc();
+</script>
+<script>
+function loadXMLDoc() {
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+	document.getElementById("tweet3").innerHTML =
+	this.responseText;
+}
+};
+xhttp.open("GET", "../../output/tweet3_summary.txt", true);
+xhttp.send();
+}
+loadXMLDoc();
+</script>
+<script>
+function loadXMLDoc() {
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+	document.getElementById("tweet4").innerHTML =
+	this.responseText;
+}
+};
+xhttp.open("GET", "../../output/tweet4_summary.txt", true);
+xhttp.send();
+}
+loadXMLDoc();
+</script>
+<script>
+function loadXMLDoc() {
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+	document.getElementById("tweet5").innerHTML =
+	this.responseText;
+}
+};
+xhttp.open("GET", "../../output/tweet5_summary.txt", true);
+xhttp.send();
+}
+loadXMLDoc();
+</script>
+<script>
+function loadXMLDoc(filename) {
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+	document.getElementById("tweet6").innerHTML =
+	this.responseText;
+}
+};
+xhttp.open("GET", "../../output/tweet6_summary.txt", true);
+xhttp.send();
+}
+loadXMLDoc();
+</script>
+	</head>
+	<body>
+		<div class="main-wrapper-first">
+			<header>
+				<div class="container">
+					<div class="header-wrap">
+						<div class="header-top d-flex justify-content-between align-items-center">
+							<div class="logo">
 
-	<div id = "content">
-		<button type="button" onclick = "fetcher()">Fetch!</button> 
-	</div>
+							</div>
+							<div class="main-menubar d-flex align-items-center">
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+			<div class="banner-area">
+				<div class="container">
+					<div class="row justify-content-center height align-items-center">
+						<div class="col-lg-8">
+							<div class="banner-content text-center">
+								<span class="text-white top text-uppercase">Twitter In Shorts</span>
+								<h1 class="text-white text-uppercase">Tweeting Pigeon</h1>
+								<a linkto=".service-area" class="primary-btn d-inline-flex align-items-center"><span class="mr-10">Scroll Down</span><span class="lnr lnr-arrow-down"></span></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- Start Feature Area -->
+
+			<!-- End Feature Area -->
+			<!-- Start Service Area -->
+			<section class="service-area">
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-lg-8">
+							<div class="section-title text-center">
+								<h3 class="text-white">Breaking News</h3>
+								<span class="text-white text-uppercase">From Trending Hashtags</span>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-service">
+								<div class="thumb" style="background: url(img/s1.jpg);">
+									<div class="overlay overlay-content d-flex justify-content-center align-items-center">
+										<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Read on Twitter</span><span class="lnr lnr-arrow-right"></span></a>
+									</div>
+								</div>
+								<div class="desc">
+									<h6 class="text-uppercase text-white">Creative Design</h6>
+									<p class="text-white" id="tweet1"></p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-service">
+								<div class="thumb" style="background: url(img/s2.jpg);">
+									<div class="overlay overlay-content d-flex justify-content-center align-items-center">
+										<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Read on Twitter</span><span class="lnr lnr-arrow-right"></span></a>
+									</div>
+								</div>
+								<div class="desc">
+									<h6 class="text-uppercase text-white">Driving Lesson</h6>
+									<p class="text-white" id="tweet2"></p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-service">
+								<div class="thumb" style="background: url(img/s3.jpg);">
+									<div class="overlay overlay-content d-flex justify-content-center align-items-center">
+										<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Read on Twitter</span><span class="lnr lnr-arrow-right"></span></a>
+									</div>
+								</div>
+								<div class="desc">
+									<h6 class="text-uppercase text-white">Climbing Stairs</h6>
+                  <p class="text-white" id="tweet3"></p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-service">
+								<div class="thumb" style="background: url(img/s4.jpg);">
+									<div class="overlay overlay-content d-flex justify-content-center align-items-center">
+										<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Read on Twitter</span><span class="lnr lnr-arrow-right"></span></a>
+									</div>
+								</div>
+								<div class="desc">
+									<h6 class="text-uppercase text-white">Bike Accident</h6>
+									<p class="text-white" id="tweet4"></p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-service">
+								<div class="thumb" style="background: url(img/s5.jpg);">
+									<div class="overlay overlay-content d-flex justify-content-center align-items-center">
+										<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Read on Twitter</span><span class="lnr lnr-arrow-right"></span></a>
+									</div>
+								</div>
+								<div class="desc">
+									<h6 class="text-uppercase text-white">Car Driving</h6>
+									<p class="text-white" id="tweet5"></p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-service">
+								<div class="thumb" style="background: url(img/s6.jpg);">
+									<div class="overlay overlay-content d-flex justify-content-center align-items-center">
+										<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Read on Twitter</span><span class="lnr lnr-arrow-right"></span></a>
+									</div>
+								</div>
+								<div class="desc">
+									<h6 class="text-uppercase text-white">Beach HoTel</h6>
+									<p class="text-white" id="tweet6"></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="featured-area">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-4">
+							<div class="single-feature d-flex flex-wrap justify-content-between">
+								<div class="icon d-flex align-items-center justify-content-center">
+									<span class="lnr lnr-star"></span>
+								</div>
+								<div class="desc">
+									<h6 class="title text-uppercase">Twitter News</h6>
+									<p>We fetch news directly from  trending hasgtags</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="single-feature d-flex flex-wrap justify-content-between">
+								<div class="icon d-flex align-items-center justify-content-center">
+									<span class="lnr lnr-code"></span>
+								</div>
+								<div class="desc">
+									<h6 class="title text-uppercase">Original News</h6>
+									<p>News is 100% authentic as news is directly fetched from trending hashtags and advanced filtering methods.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="single-feature d-flex flex-wrap justify-content-between">
+								<div class="icon d-flex align-items-center justify-content-center">
+									<span class="lnr lnr-clock"></span>
+								</div>
+								<div class="desc">
+									<h6 class="title text-uppercase">Fastest Ever</h6>
+									<p>News is fetched as soon as a event breaks up on Twitter.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- End Service Area -->
+			<!-- Start Amazing Works Area -->
+		</div>
+		<div class="main-wrapper">
+
+		</div>
+		<div class="main-wrapper">
+			<!-- End Amazing Works Area -->
+			<!-- Start Story Area -->
+
+			<!-- End Story Area -->
+			<!-- Start Subscription Area -->
+
+			<!-- End Subscription Area -->
+			<!-- Start Footer Widget Area -->
 
 
-	<script>
-		var socket = io.connect();
+			<!-- End Footer Widget Area -->
+			<!-- Start footer Area -->
+			<footer>
+				<div class="container">
+					<div class="footer-content d-flex justify-content-between align-items-center flex-wrap">
+						<div class="logo">
 
-		function fetcher(){
-			console.log("Button Pressed");
-			socket.emit('fetch_data');
-		}
+						</div>
+						<div class="copy-right-text">Copyright &copy; 2018  | This project is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="#" target="_blank">ATeamHasNoName</a></div>
+						<div class="footer-social">
 
-		socket.on('senddata', function(data){
-			document.getElementById("content").append(data);
-		});
-	</script>
-</body>
+						</div>
+					</div>
+				</div>
+			</footer>
+			<!-- End footer Area -->
+		</div>
+
+
+
+
+		<script src="js/vendor/jquery-2.2.4.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+		<script src="js/vendor/bootstrap.min.js"></script>
+		<script src="js/jquery.ajaxchimp.min.js"></script>
+		<script src="js/owl.carousel.min.js"></script>
+		<script src="js/jquery.nice-select.min.js"></script>
+		<script src="js/jquery.magnific-popup.min.js"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>

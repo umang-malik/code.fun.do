@@ -8,12 +8,19 @@ const summary = './summary';
 const output = './output';
 var util = require('util');
 var https = require('https');
+var path = require('path');
 var subscriptionKey = '21d8913e64854ab48f0496758210fdb5';
 var request_params;
 
 app.get('/', function(req, res){
 	res.sendFile(__dirname + '/index.html');
 });
+
+app.use(express.static("public"));
+
+// app.use('/js',express.static(path.join(__dirname, 'final/site/js')));
+// app.use('/css',express.static(path.join(__dirname, 'final/site/css')));
+// app.use('/', express.static(path.join(__dirname, 'final/site'));
 
 socketio.on('connection', function(socket){
 	console.log("A new connection is being made");
