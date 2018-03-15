@@ -48,9 +48,11 @@ stemmer = PorterStemmer()
 parser = argparse.ArgumentParser()
 parser.add_argument("cleaned_data")
 parser.add_argument("processed_data")
+parser.add_argument("write_to")
 args = parser.parse_args()
 cleaned_data = open( args.cleaned_data, "r+")
 processed_data = open( args.processed_data, "r+")
+file_write = open(args.write_to, 'w')
 index=0
 tweet_map = {}
 tweet_weights = {}
@@ -89,7 +91,11 @@ for tweet in cleaned_data:
 sorted_tweet_weights = sorted(tweet_weights.items(), key=operator.itemgetter(1), reverse=True)
 count = 0
 for items in sorted_tweet_weights:
-	print(tweet_map[items[0]],".",sep="")
+	file_write.write((tweet_map[items[0]]))
+	file_write.write((".\n")) 
+	# print(tweet_map[items[0]],".",sep="")
 	count+=1
 	if(count == 4):
 		break;
+	file_write.flush()
+file_write.close()
