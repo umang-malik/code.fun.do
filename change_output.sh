@@ -9,5 +9,3 @@ for f in $output_list; do
     cat "summary/$f" >| "output/tweet${i}_summary.txt"
     i=$(($i+1))
 done
-rm -rf final/site/output
-cp -r output final/site/output
