@@ -10,7 +10,10 @@ python TrendingHashtags.py >| hashtags.txt
 # python crawl.py hashtags.txt crawl_tweets/
 # find crawl_tweets/ -size 0 -type f -delete
 
-
+#Clean file names
+for file in $(ls crawl_tweets); do
+    mv "crawl_tweets/${file}" $(echo crawl_tweets/${file} | sed -e "s/[^A-Za-z//]/_/g")  
+done
 
 #Clean the tweets
 echo Cleaning tweets
@@ -36,7 +39,9 @@ echo Summarizing tweets
     suffix="_features"
     file="$working_dir$clean_tweets"$i""
     feature="$working_dir$process_tweets"$i"$suffix"
-    python tweet_summarizer.py "$file" "$feature" > $working_dir$summary"$i"
+    write_to="$working_dir$summary"$i""
+    echo calling: "$write_to"
+    python tweet_summarizer.py "$file" "$feature" "$write_to" #>> "${working_dir}${summary}"${i}""
 done
 
 echo DONE!
