@@ -1,0 +1,84 @@
+['PollsforIndia:NNP', 'best:JJS', 'scooter:NN', 'ride:NN', 'SuzukiAccess:NNP', 'B:NNP', 'HondaActiva:NNP', 'C:NNP', 'Maestro:NNP', 'TVSJupiter:NNP', 'Bike:NNP', 'India:NNP', 'Honda:NNP', 'Suzuki:NNP']
+
+['best:JJS', 'scooter:NN', 'ride:NN', 'SuzukiAccess:NNP', 'B:NNP', 'HondaActiva:NNP', 'C:NNP', 'Maestro:NNP', 'TVSJupiter:NNP', 'Bike:NNP', 'India:NNP', 'Honda:NNP', 'Suzuki:NNP', 'TVS:NNP', 'Yamaha:NNP', 'Hero:NNP', 'motorcycles:NNS', 'Automobile:NNP', 'biker:NN', 'rider:NN', 'stunt:NN']
+
+['Got:NNP', 'Stat:NNP', 'grade:VBD', 'fail:VB', 'final:JJ', 'still:RB', 'get:VB', 'B:NNP', 'class:NN', 'Strategize:NNP']
+
+['Take:VB', 'performance:NN', 'UTVSXS:NNP', 'next:JJ', 'level:NN', 'New:NNP', 'BampM:NNP', 'Shifters:NNP', 'accessories:NNS', 'available:JJ', 'Polaris:NNP', 'RZR:NNP', 'Yamaha:NNP', 'YXZ:NNP', 'CanAm:NNP', 'Maverick:NNP', 'BandM:NNP', 'BMRacing:NNP']
+
+['MotorCyclegtNewsgt:NN', '2018:CD', 'Yamaha:NNP', 'WR250F:NNP', 'Review:NNP', '12:CD', 'Fast:NNP', 'FactsgtWi:NNP']
+
+['YamahaMotorUSA:NNP', 'Devon:NNP', 'simonson70:NN', 'keeping:VBG', 'consistent:JJ', 'B:NNP', 'class:NN', 'takes:VBZ', '450B:CD', 'Title:NN', 'rcsxdaytona:FW', 'aboard:IN', 'sobmo:NN']
+
+['MotorCycleTech3:NNP', 'Switch:VB', 'Yamaha:NNP', 'KTM:NNP', '2019:CD', 'MotoGP:NNP']
+
+['TRossNC:NNP', 'like:IN', 'Arrow:NNP', 'interface:NN', 'since:IN', 'good:JJ', 'medium:NN', 'hardware:NN', 'far:RB', 'monitors:NNS', 'reference:NN', 'set:VBN', 'good:JJ', 'always:RB', 'get:VB', 'Genelics:NNS', 'Adams:NNP', 'set:NN', 'Yamahas:NNP', 'B:NNP', 'set:NN', 'another:DT', 'reference:NN', 'set:VBN', 'set:NN', 'C:NNP']
+
+['Devon:NNP', 'simonson70:NN', 'keeping:VBG', 'consistent:JJ', 'B:NNP', 'class:NN', 'takes:VBZ', '450B:CD', 'Title:NN', 'rcsxdaytona:FW', 'aboard:IN', 'sobmoto:NN', 'Yamaha:NNP', 'YZ450F:NNP', 'bLUcRU:NN', 'RCSX:NNP', 'Daytonabikeweek:NNP', 'Moto:NNP', 'MX:NNP', 'Supercross:NNP', 'YZ450F:NNP', 'motoplayground:NN']
+
+['hulathehebrew:NN', 'MGasmiaRamzi:NNP', 'iopposezionisim:NN', 'SDrinsinger:NNP', 'TrutherTracy:NNP', 'AlgerianPalest:NNP', 'infidelchloe:NN', 'GamemomManuela:NNP', 'petergrey5:NN', 'restricted911:NN', 'LdyDrums:NNP', 'GamalAkabani:NNP', 'Patmart72835703:NNP', 'georgegalloway:NN', 'benfcampen:JJ', 'NukeTheLiars:NNP', 'jnjkahl:NN', 'drseiomi:NN', 'Kickassmagoon:NNP', 'syriatrue:NN', 'AWAKEALERT:NNP', 'AntiGlobalist:NNP', 'BBC:NNP', 'SkyNews:NNP', 'OsmanMarwa1:NNP', 'NetureiKarta:NNP', 'cjsienna55:NN', '1:CD', 'hand:NN', 'probly:RB', 'diff:JJ', 'countries:NNS', 'thats:JJ', 'prob:NN', 'going:VBG', 'happ:VB', 'Reltv:NNP', '2:CD', 'Im:NNP', 'nobody:NN', 'interested:JJ', 'humanist:NN', 'atheist:NN', 'old:JJ', 'man:NN', 'teach:VBP', 'ironically:RB', 'fife:JJ', 'playing:VBG', '1776:CD', '2:CD', 'kids:NNS', 'Yamaha:NNP', 'makes:VBZ', 'phenom:JJ', 'fife:NN', 'YRF21:NNP', 'cheap:NN', '200:CD', '2:CD', 'give:JJ', '2:CD', 'kids:NNS', 'MUSICA:NNP', 'B:NNP', 'ANSWER:NNP']
+
+['digiusedgtbot:NN', 'YAMAHA:NNP', 'VGStandard:NNP', 'Antique:NNP', 'Sunburst:NNP', 'ATSWEBSHOP:NNP', '69120:CD', 'B:NNP']
+
+['YAMAHA:NNP', 'VGStandard:NNP', 'Antique:NNP', 'Sunburst:NNP', 'ATSWEBSHOP:NNP', '69120:CD', 'B:NNP']
+
+['Custom:NNP', 'Bikes:NNP', 'Week:NNP', '11:CD', 'March:NNP', '2018:CD', 'Ducati:NNP', '848:CD', 'streetfighter:NN', 'vibe:NN', 'KTM:NNP', '640:CD', 'rebuilt:NN', 'tracker:NN', 'style:NN', 'ebike:JJ', 'homage:NN', 'surfing:VBG', 'legend:NN', 'pair:NN', 'lunatic:JJ', 'snow:NN', 'bikes:NNS', 'Variety:NNP', 'spice:NN', 'life:NN', 'eh:NN', 'Yamaha:NNP', 'WR450F:NNP', '2Trac:CD', 'b:NN']
+
+['acoustictourist:NN', 'jamesmacm:NN', 'Harmonywriter:NNP', 'working:VBG', 'Atari:NNP', 'computers:NNS', 'Yamaha:NNP', 'TX81Z:NNP', 'synth:JJ', 'modules:NNS', 'DrT:NNP', 'Serious:NNP', 'Software:NNP', 'Thinking:NNP', 'Musician:NNP', 'Jimmy:NNP', 'programmed:VBD', 'TXs:NNP', 'say:VB', 'Heidz:NNP', 'Nippin:NNP', 'startup:NN']
+
+['prnewswire:NN', 'Global:NNP', 'Pro:NNP', 'Speaker:NNP', 'Market:NNP', 'Outlook:NNP', '20182023:CD', 'Featuring:NNP', 'Bose:NNP', 'B:NNP']
+
+['YAMAHA:NNP', 'SGV700:NNP', 'Shelby:NNP', 'Blue:NNP', 'WEBSHOP:NNP', '64800:CD', 'B:NNP']
+
+['Fluk28inkster:NN', 'miss:VBP', 'bike:NN', 'course:NN', 'long:JJ', 'time:NN', 'ago:IN', 'bought:VBD', 'Yamaha:NNP', 'RD:NNP', 'street:NN', 'racer:NN', 'back:RB', '1976:CD', 'loved:VBD', 'Enjoy:NNP', 'new:JJ', 'ride:NN', 'sir:NN']
+
+['YamahaMotorUSA:NNP', 'bLUcRU:NN', 'rider:NN', 'Colton:NNP', 'Eigenmann:NNP', 'picture:NN', 'perfect:JJ', 'day:NN', 'racing:VBG', 'Amateur:NNP', 'SX:NNP', 'Atlanta:NNP', 'winning:VBG', 'every:DT', 'race:NN']
+
+['twmxdotcom:NN', 'news:NN', 'Star:NNP', 'Racing:NNP', 'Yamaha:NNP', 'bike:NN', 'track:NN', 'Daytona:NNP']
+
+['BampMs:NNP', 'New:NNP', 'Short:NNP', 'Throw:NNP', 'Shifter:NNP', '20162017:CD', 'Yamaha:NNP', 'YXZ1000R:NNP', 'UTV:NNP', 'Cool:NNP', 'BangShifty:NNP']
+
+['bangshift:NN', 'Car:NNP', 'Junkie:NNP', 'Daily:NNP', 'Magazine:NNP', 'BampMs:NNP', 'New:NNP', 'Short:NNP', 'Throw:NNP', 'Shifter:NNP', '20162017:CD', 'Yamaha:NNP', 'YXZ1000R:NNP', 'UTV:NNP', 'Cool:NNP', 'BangShifty:NNP', 'One:CD', 'shockingly:RB', 'massive:JJ', 'portions:NNS', 'high:JJ', 'performance:NN', 'aftermarket:NN', 'UTV:NNP', 'segment:NN']
+
+['YAMAHA:NNP', 'Pacifica:NNP', 'PAC212VQM:NNP', 'Tobacco:NNP', 'Brown:NNP', 'Sunburst:NNP', 'TBSWEBSHOP:NNP', '24840:CD', 'B:NNP']
+
+['SPLASH:NNP', 'WINDOW:NNP', 'CLEANING:NNP', 'PA:NNP', 'wagtail:NN', 'water:NN', 'fed:VBD', 'flow:JJ', 'squeegee:NN', 'prototype:NN', 'BampB:NNP', 'yamaha:NN']
+
+['tappetgap:NN', 'Ron:NNP', 'Haslam:NNP', '750:CD', 'Yamaha:NN', 'Carnaby:NNP', '1976:CD']
+
+['liked:VBD', 'YouTube:NNP', 'video:NN']
+
+['Tucker:NNP', 'Hibbert:NNP', 'compete:VB', 'Iowa:NNP', 'Snocross:NNP', 'National:NNP', 'weekend:NN', 'Dubuque:NNP', 'American:NNP', 'Snowmobiler:NNP', 'Magazine:NNP', 'Snowmobile:NNP', 'forums:NNS', 'news:NN', 'Polaris:NNP', 'SkiDoo:NNP', 'Arctic:NNP', 'Cat:NNP', 'amp:NN', 'Yamaha:NNP', 'reviews:NNS']
+
+['Interested:VBN', 'demo:NN', 'products:NNS', 'try:VBP', 'buy:VBP', 'Come:NNP', 'book:NN', 'demo:NN', 'SFL:NNP', 'demos:NN', 'many:JJ', 'brands:NNS', 'everything:NN', 'dampb:NN', 'LAcoustics:NNS', 'Yamaha:NNP', 'DiGiCo:NNP', 'partnerships:NNS', 'reseller:VB', 'brands:NNS', 'demo:JJ', 'sflgroup:NN']
+
+['tappetgap:NN', 'Tom:NNP', 'Herron:NNP', '352:CD', 'Yamaha:NN', 'Scarborough:NNP', '1975:CD']
+
+['MotorcycleCom:NNP', 'Baggers:NNP', 'Vegas:NNP', 'Rally:NNP', 'BMW:NNP', 'K1600:NNP', 'B:NNP', 'vs:NN', 'Indian:NNP', 'Chieftain:NNP', 'Dark:NNP', 'Horse:NNP', 'vs:NN', 'Kawasaki:NNP', 'Vaquero:NNP', 'vs:NNP', 'HarleyDavidson:NNP', 'Street:NNP']
+
+['AmSnowMag:NNP', 'SRX:NNP', 'back:RB', 'lineup:NN', '2019:CD', 'Yamaha:NNP', 'Check:NNP', 'rest:NN', 'sleds:NNS']
+
+['Baggers:NNPS', 'Vegas:NNP', 'Rally:NNP', 'BMW:NNP', 'K1600:NNP', 'B:NNP', 'vs:NN', 'Indian:NNP', 'Chieftain:NNP', 'Dark:NNP', 'Horse:NNP', 'vs:NN', 'Kawasaki:NNP', 'Vaquero:NNP', 'vs:NNP', 'HarleyDavidson:NNP', 'Street:NNP', 'Road:NNP', 'Glides:NNP', 'vs:FW', 'Moto:NNP', 'Guzzi:NNP', 'MGX21:NNP', 'vs:NN', 'Yamaha:NNP', 'Eluder:NNP']
+
+['digiusedgtbot:NN', 'YAMAHA:NNP', 'MGSStandard:NNP', 'Sparkling:NNP', 'Red:NNP', 'SPR:NNP', 'CHAGEWEBSHOP:NNP', '43200:CD', 'B:NNP']
+
+['bLUcRU:NN', 'rider:NN', 'Colton:NNP', 'Eigenmann:NNP', 'picture:NN', 'perfect:JJ', 'day:NN', 'racing:VBG', 'Amateur:NNP', 'SX:NNP', 'Atlanta:NNP', 'winning:VBG', 'every:DT', 'race:NN', 'entered:VBD', 'Yamaha:NNP', 'rider:NN', 'contested:VBD', '250:CD', 'B:NNP', 'amp:NN', 'Open:NNP', 'B:NNP', 'classes:VBZ', 'winning:VBG', 'heats:NNS', 'amp:VBP', 'main:JJ', 'events:NNS', 'yamaha:VBP', 'victorYZone:NN', 'sx:NN', 'supercross:NN', 'motoplayground:NN']
+
+['SRX:NNP', 'back:RB', 'lineup:NN', '2019:CD', 'Yamaha:NNP', 'Check:NNP', 'rest:NN', 'sleds:NNS']
+
+['gear4bikers:NNS', 'New:NNP', 'Yamaha:NNP', 'FZ6:NNP', '600cc:CD', 'Black:NN', '2007:CD', '11130:CD', 'miles:NNS', 'Immaculate:NNP', 'Original:NNP', 'Standard:NNP', 'Condition:NNP', 'Long:NNP', 'Eaton:NNP', 'Nottingham:NNP', 'Der:NNP']
+
+['gear4bikers:NNS', 'New:NNP', 'Yamaha:NNP', 'MT125:NNP', 'Matt:NNP', 'Red:NNP', '2014:CD', '1582:CD', 'miles:NNS', 'Immaculate:NNP', 'Original:NNP', 'Standard:NNP', 'Condition:NNP', 'Learner:NNP', 'Legal:NNP', '17:CD', 'Years:NNS', 'Old:NNP']
+
+['New:NNP', 'Yamaha:NNP', 'MT125:NNP', 'Matt:NNP', 'Red:NNP', '2014:CD', '1582:CD', 'miles:NNS', 'Immaculate:NNP', 'Original:NNP', 'Standard:NNP', 'Condition:NNP', 'Learner:NNP', 'Legal:NNP', '17:CD', 'Years:NNS', 'Old:NNP', 'Long:NNP', 'Eaton:NNP', 'Nottingham:NNP', 'Derby:NNP', 'border:NN', 'Call:NN', '0115:CD', '9732862:CD']
+
+['New:NNP', 'Yamaha:NNP', 'FZ6:NNP', '600cc:CD', 'Black:NN', '2007:CD', '11130:CD', 'miles:NNS', 'Immaculate:NNP', 'Original:NNP', 'Standard:NNP', 'Condition:NNP', 'Long:NNP', 'Eaton:NNP', 'Nottingham:NNP', 'Derby:NNP', 'border:NN', 'Call:NN', '0115:CD', '9732862:CD']
+
+['YAMAHA:NNP', 'MGSStandard:NNP', 'Sparkling:NNP', 'Red:NNP', 'SPR:NNP', 'CHAGEWEBSHOP:NNP', '43200:CD', 'B:NNP']
+
+['YAMAHA:NNP', 'SG600:NNP', 'Tobacco:NNP', 'Sunburst:NNP', 'TSWEBSHOP:NNP', '43200:CD', 'B:NNP']
+
+['Yamaha:$', '135:CD', 'lc:JJ', 'extreme:JJ', 'spirit:NN', '5speed:CD', 'ltbgturgent:NN', 'saleltbgt:NN', 'Yamaha:NNP', '135:CD', 'lc:NN', 'extreme:NN', 'spirit:NN', '5:CD']
+
+['wxatgp500:JJ', 'Kent:NNP', 'Andersson:NNP', 'Yamaha:NNP', 'YZR125:NNP', 'OW15:NNP', 'Paul:NNP', 'Ricard:NNP', '1975:CD']
+

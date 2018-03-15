@@ -1,8 +1,70 @@
+['Julius:NNP', 'Caesar:NNP', 'assassinated:VBN', 'senators:NNS', 'onthisday:VBP', '44:CD', 'BC:NNP', 'coin:NN', 'commemorates:VBZ', 'act:NN', 'portrait:NN', 'Brutus:NNP', 'front:NN', 'Eid:NNP', 'Mar:NNP', 'IdesOfMarch:NNP', 'emblazoned:VBD', 'back:NN', 'along:IN', 'two:CD', 'daggers:NNS', 'liberty:JJ', 'cap:NN', 'TodayInHistory:NN']
+
+['Today:NN', 'IdesOfMarch:NNP', 'reexamine:VB', 'friends:NNS', 'decide:VB', 'whether:IN', 'using:VBG', 'advantage:NN', 'b:NN', 'really:RB', 'friends:NNS', 'c:VB', 'really:RB', 'knives:NNS', 'right:RB', 'find:VBP', 'Get:NNP', 'rid:NN', 'Toxic:NNP', 'friendship:NN', 'worse:JJR', 'friendship:NN']
+
+['mfaboston:NN', 'Julius:NNP', 'Caesar:NNP', 'assassinated:VBN', 'senators:NNS', 'onthisday:VBP', '44:CD', 'BC:NNP', 'coin:NN', 'commemorates:VBZ', 'act:NN', 'portrait:NN']
+
+['AntiquityJ:NNP', 'ShakespeareWeek:NNP', 'Beware:NNP', 'IdesOfMarch:NNP', 'Caesar:NNP', 'inauspicious:JJ', 'day:NN', 'may:MD', 'direct:VB', 'Inkling:NNP', 'CE:NNP', 'Steve:NNP']
+
+['SarahAlden83:NNP', 'Beware:NNP', 'IdesofMarch:NNP', 'JuliusCaesar:NNP', 'Assassinated:VBD', '44:CD', 'BC:NNP', 'EtTuBrute:NNP']
+
+['DFA:NNP', 'proud:JJ', '2:CD', 'endorse:JJ', 'Edwards:NNP', 'amp:NN', 'Newman:NNP', 'bc:VBZ', 'know:VBP', 'progressives:NNS', 'amp:VB', 'must:MD', 'lead:VB', 'going:VBG', 'create:VB', 'blue:JJ', 'wave:NN', '18:CD', 'Chip:NNP', '3:CD', '2:CD', 'help:NN', 'Edwards:NNP', 'amp:VBZ', 'Newman:NNP', 'fight:VBD', 'back:RB', 'DCCC:NNP', 'amp:VBP', 'outdated:JJ', 'corporate:JJ', 'playbook:NN', 'amp:NN', 'win:VB', 'ThursdayThoughts:NNP', 'IdesOfMarch:NNP']
+
+['Beware:NNP', 'IdesOfMarch:NNP', 'new:JJ', 'volume:NN', 'Landmark:NNP', 'Ancient:NNP', 'Histories:NNP', 'series:NN', 'edited:VBN', 'APS:NNP', 'Member:NNP', 'Robert:NNP', 'B:NNP', 'Strassler:NNP', 'features:VBZ', 'military:JJ', 'campaigns:NNS', 'Julius:NNP', 'Caesar:NNP', 'Look:NNP', 'talk:NN', 'Strassler:NNP', 'APS:NNP', 'fall:NN', 'nybooks:NNS']
+
+['statelibrary:JJ', 'Beware:NNP', 'Ides:NNP', 'March:NNP', 'Today:NNP', 'day:NN', 'Julius:NNP', 'Caesar:NNP', 'assassinated:VBN', '2061:CD', 'years:NNS', 'ago:RB', '44:CD', 'BCE:NNP', 'April:NNP', '1882:CD', 'Law:NNP']
+
+['Bware:NNP', 'Bware:NNP', 'IdesofMarch:NNP']
+
+['kellystamblesky:NN', 'things:NNS', 'culturally:RB', 'literate:JJ', 'understand:VB', 'IdesofMarch:NNP']
+
+['carolemadge:NN', 'Torre:NNP', 'Argentina:NNP', 'Rome:NNP', 'spot:NN', 'near:IN', 'Julius:NNP', 'Caesar:NNP', 'stabbed:VBN', 'onthisday:RB', '44:CD', 'BC:NNP', 'IdesOfMarch:NNP']
+
+['One:CD', 'year:NN', 'ago:RB', 'today:NN', 'lost:VBD', 'fatherinlaw:NN', 'Ernie:NNP', 'Davenport:NNP', 'WWII:NNP', 'vet:NN', 'trained:VBD', 'pilots:NNS', 'copilot:NN', 'B17:NNP', 'went:VBD', 'teach:VB', 'kids:NNS', 'coach:NN', 'FB:NNP', 'true:JJ', 'love:NN', 'great:JJ', 'second:JJ', 'dad:NN', 'sadly:RB', 'missed:JJ', 'RIP:NNP', 'Dad:NNP', 'RIP:NNP', 'IdesOfMarch:NNP']
+
+['dhick9:NN', 'IdesOfMarch:NNP', 'today:NN', 'US:NNP', 'Senate:NNP', 'recreated:VBD', 'scene:NN', 'Senate:NNP', 'floor:NN', '44:CD', 'BC:NNP', 'would:MD', 'make:VB', 'BEST:NNP', 'Ides:NNP']
+
+['CathyMyersWI:NN', 'shameful:JJ', 'Democrats:NNPS', 'joined:VBD', 'Republicans:NNPS', 'rollback:VB', 'financial:JJ', 'regulations:NNS', 'benefit:VB', 'banks:NNS', 'whose:WP$', 'reckle:NNS']
+
+['Currently:RB', 'watching:VBG', 'Marlon:NNP', 'Brando:NNP', 'version:NN', 'Julius:NNP', 'Caesar:NNP', 'AMAZING:JJ', 'Marc:NNP', 'Antony:NNP', 'Marc:NNP', 'Antonys:NNP', 'funeral:JJ', 'speech:NN', 'AMAZING:NNP', 'rhetoric:NN', 'phenomenal:JJ', 'IdesOfMarch:NNP']
+
+['Beware:NNP', 'IdesofMarch:NNP', 'JuliusCaesar:NNP', 'Assassinated:VBD', '44:CD', 'BC:NNP', 'EtTuBrute:NNP']
+
+['mrtonylee:NN', 'Today:NNP', 'IdesOfMarch:NNP', 'reexamine:VB', 'friends:NNS', 'decide:VB', 'whether:IN', 'using:VBG']
+
+['Beware:NNP', 'Ides:NNP', 'March:NNP', 'Today:NNP', 'day:NN', 'Julius:NNP', 'Caesar:NNP', 'assassinated:VBN', '2061:CD', 'years:NNS', 'ago:RB', '44:CD', 'BCE:NNP', 'April:NNP', '1882:CD', 'Lawrence:NNP', 'Barrett:NNP', 'wellknown:JJ', '19th:JJ', 'century:NN', 'American:NNP', 'actor:NN', 'played:VBD', 'Cassius:NNP', 'Julius:NNP', 'Caesar:NNP', 'Dicksons:NNP', 'Grand:NNP', 'Opera:NNP', 'House:NNP', 'Indianapolis:NNP', 'IdesOfMarch:NNP', 'Theater:NNP']
+
+['March:NNP', '15:CD', 'aka:IN', 'IdesOfMarch:NNP', 'love:VBP', 'day:NN', 'historically:RB', 'day:NN', 'associated:VBN', 'loyalty:NN', 'Julius:NNP', 'Caesar:NNP', 'assassinated:VBN', '44:CD', 'BC:NNP', 'March:NNP', '15:CD', 'confidant:NN', 'Brutus:NNP', 'one:CD', 'lead:VB', 'plan:NN', 'Caesars:NNP', 'assassination:NN', 'BewareTheIdesOfMarch:NNP', 'history:NN']
+
+['IdesofMarch:NNP', 'also:RB', '74th:CD', 'day:NN', '2018:CD', 'means:VBZ', '80:CD', '292:CD', 'days:NNS', '2018:CD', 'left:VBN', 'Last:JJ', 'chance:NN', 'get:VB', 'B:NNP', 'whatever:NN', 'want:VBP', 'accomplish:VB', 'year:NN', 'things:NNS', 'Put:NNP', 'work:NN']
+
+['hunterian:JJ', 'Triumph:NNP', 'Ceasar:NNP', 'Elephants:NNS', 'series:NN', 'seven:CD', 'engravings:NNS', 'related:VBN', 'paintings:NNS', 'Hampton:NNP', 'Court:NNP']
+
+['OTD:$', '44:CD', 'BC:NNP', 'IdesOfMarch:NNP', 'Julius:NNP', 'Caesar:NNP', 'murdered:VBN', 'remember:VBP', 'well:RB']
+
+['supported:VBD', 'Bill:NNP', 'Clintons:NNP', 'crime:NN', 'bill:NN', 'bc:VBZ', 'Violence:NNP', 'Women:NNP', 'Act:NNP', 'assault:NN', 'weapons:NNS', 'ban:NN', 'included:VBN', 'endorsed:VBD', 'Jesse:NNP', 'Jackson:NNP', 'President:NNP', '1984:CD', '1988:CD', '88:CD', 'worked:VBD', 'campaign:NN', 'spoke:VBD', 'highly:RB', 'Jackson:NNP', 'ThursdayThoughts:NNP', 'FridayEve:NNP', 'IdesOfMarch:NNP']
+
+['Fitting:VBG', 'Lori:NNP', 'Taylor:NNP', 'WestEd:NNP', 'drops:NNS', 'IdesOfMarch:NNP', 'B:NNP', 'E:NNP', 'W:NNP', 'R:NNP', 'E:NNP', 'ksleg:NN', 'ksed:VBD']
+
+['IdesOfMarch:NN', 'today:NN', 'US:NNP', 'Senate:NNP', 'recreated:VBD', 'scene:NN', 'Senate:NNP', 'floor:NN', '44:CD', 'BC:NNP', 'would:MD', 'make:VB', 'BEST:NNP', 'Ides:NNP', 'March:NNP', 'ever:RB', 'FuckusDonaldusTrumpus:NNP']
+
+['doctorfaayed:VBN', 'Good:JJ', 'morning:NN', 'travels:NNS', 'B:NNP', 'careful:NN', '2:CD', 'trip:NN', 'flaming:VBG', 'mountain:NN', 'evidence:NN', 'ObamaClinton:NNP', 'fucked:VBD', 'Trump:NNP', 'ov:NN']
+
+['writenoelle:JJ', 'Watch:NNP', 'back:RB', '44:CD', 'BC:NNP', 'HeedTheSoothsayer:NNP', 'RomanConsul:NNP', 'CaesarMoreThanASalad:NNP', 'IdesOfMarch:NNP', 'Shakespeare:NNP']
+
+['B:NNP', 'E:NNP', 'W:NNP', 'R:NNP', 'E:NNP', 'IdesOfMarch:NNP']
+
+['ShakespeareWeek:NNP', 'Beware:NNP', 'IdesOfMarch:NNP', 'Caesar:NNP', 'inauspicious:JJ', 'day:NN', 'may:MD', 'direct:VB', 'Inkling:VBG', 'CE:NNP', 'Stevens:NNP', 'brilliantly:RB', 'vivid:VBZ', '55:CD', 'BC:NNP', '54:CD', 'BC:NNP', '1947:CD']
+
+['Watch:VB', 'back:RB', '44:CD', 'BC:NNP', 'HeedTheSoothsayer:NNP', 'RomanConsul:NNP', 'CaesarMoreThanASalad:NNP', 'IdesOfMarch:NNP', 'Shakespeare:NNP']
+
+['child:NN', 'OnThisDay:NNP', '44:CD', 'BC:NNP', 'IdesOfMarch:NNP', 'Julius:NNP', 'Caesar:NNP', 'dictator:NN', 'life:NN', 'RomanEmpire:NNP', 'murdered:VBN', 'senators:NNS']
+
+['Triumph:NNP', 'Ceasar:NNP', 'Elephants:NNS', 'series:NN', 'seven:CD', 'engravings:NNS', 'related:VBN', 'paintings:NNS', 'Hampton:NNP', 'Court:NNP', 'detailed:JJ', 'representation:NN', 'real:JJ', 'event:NN', 'Julius:NNP', 'Caesars:NNP', 'triumphant:JJ', 'entry:NN', 'Rome:NNP', '46:CD', 'BC:NNP', 'Mantegna:NNP', '16th:CD', 'c:NN', 'IdesOfMarch:NNP', 'Ceasar:NNP']
+
 ['weathertrending:VBG', 'Turns:VBZ', 'Shakespeare:NNP', 'spot:VBN', 'Beware:NNP', 'IdesOfMarch:NNP', 'Today:NNP', 'first:JJ', 'signs:NNS', 'cold:JJ', 'Beasterly:NNP', 'winds:VBZ']
 
 ['Turns:VBZ', 'Shakespeare:NNP', 'spot:VBN', 'Beware:NNP', 'IdesOfMarch:NNP', 'Today:NNP', 'first:JJ', 'signs:NNS', 'cold:JJ', 'Beasterly:NNP', 'winds:NNS', 'arrive:VBP', 'eastern:JJ', 'Scotland:NNP', 'omen:NNS', 'us:PRP', 'come:VBP', 'weekend:NN', 'uksnow:JJ', 'juliuscaesar:NN']
 
 ['MilHistNow:NNP', 'Today:NNP', '44:CD', 'BC:NNP', 'Julius:NNP', 'Caesar:NNP', 'assassinated:VBN', 'ensuing:VBG', 'political:JJ', 'upheaval:NN', 'ends:VBZ', 'Roman:NNP', 'Republic:NNP', 'idesofmarch:NN', 'https:NN']
-
-['Top:JJ', 'ten:NN', 'reasons:NNS', 'beware:VB', 'IdesofMarch:NNP', 'March15th:NNP', 'Assassination:NNP', 'JuliusCaesar:NNP', '44:CD', 'BC:NNP', 'Conspirators:NNPS', 'led:VBN', 'Marcus:NNP', 'Junius:NNP', 'Brutus:NNP', 'stab:VBD', 'dictatorforlife:JJ', 'Julius:NNP', 'Caesar:NNP', 'death:NN', 'Roman:NNP', 'senate:NN', 'via:IN', 'SmithsonianMag:NNP']
 
