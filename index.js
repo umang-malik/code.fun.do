@@ -4,7 +4,8 @@ var server = require('http').Server(app);
 var socketio = require('socket.io')(server);
 var shell = require('shelljs')
 var fs = require('fs');
-const summaryFolder = './summary';
+const summary = './summary';
+const output = './output';
 var util = require('util');
 var https = require('https');
 var subscriptionKey = '21d8913e64854ab48f0496758210fdb5';
@@ -27,7 +28,6 @@ socketio.on('connection', function(socket){
 	        	body += d;
 	    	});
 	    	response.on('end', function () {
-		        console.log('\nRelevant Headers:\n');
 		        for (var header in response.headers)
 		            // header keys are lower-cased by Node.js
 		            if (header.startsWith("bingapis-") || header.startsWith("x-msedge-"))
@@ -60,7 +60,7 @@ socketio.on('connection', function(socket){
 	}
 
 	function sendImageURL(url){
-		socketio.emit("send_url", a);
+		socketio.emit("send_url", url);
 		console.log("sending url");
 	}
 
@@ -71,21 +71,29 @@ socketio.on('connection', function(socket){
 		console.log("Bash script ran completely");
 		console.log("Trying to read data");
 
-		fs.readdirSync('./output').forEach(file => {
-			fs.readFile(summaryFolder + '/' + file, "utf8", function(err, data){
+		fs.readdirSync(output).forEach(file => {
+			fs.readFile(output + '/' + file, "utf8", function(err, data){
 				console.log(data);
-				web_search(data);
-			})
-		}
-
-
-		fs.readdirSync(summaryFolder).forEach(file => {
-			fs.readFile(summaryFolder + '/' + file, "utf8", function(err, data) {
-				console.log(data);
-				sendData(data);
+				if(data.length<=30)
+				{
+					web_search(data);
+				}
+				else
+				{	socketio.emit('sending_summary', data, file[6]);
+					console.log('sending_summary', data, file[6]);
+				}
 			});
-			console.log(file);
+
 		})
+
+
+		// fs.readdirSync(summary).forEach(file => {
+		// 	fs.readFile(summary + '/' + file, "utf8", function(err, data) {
+		// 		console.log(data);
+		// 		sendData(data);
+		// 	});
+		// 	console.log(file);
+		// })
 	});
 
 	function sendData(file){
