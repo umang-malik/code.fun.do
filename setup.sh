@@ -41,7 +41,8 @@ echo Summarizing tweets
     feature="$working_dir$process_tweets"$i"$suffix"
     write_to="$working_dir$summary"$i""
     echo calling: "$write_to"
-    python tweet_summarizer.py "$file" "$feature" "$write_to" #>> "${working_dir}${summary}"${i}""
+    touch "${working_dir}${summary}"${i}""
+    python tweet_summarizer.py "$file" "$feature" "$write_to" | tee "${working_dir}${summary}"${i}""
 done
 
 echo DONE!
