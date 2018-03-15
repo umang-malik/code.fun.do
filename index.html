@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tweeting Pigeon</title>
+	<!--Writing all the required stuff in the meta description tags-->	
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name = "description" content="A simple web chat application for a course project">
+	<meta name = "keywords" content = "tweets, breaking news, streaming, trending">
+	<meta name = "author" content="ATeamHasNoName">
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Quicksand">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+</head>
+<body>
+
+	<h1> Tweeting Pigeon | code.fun.do </h1>
+
+	<div id = "content">
+		<button type="button" onclick = "fetcher()">Fetch!</button> 
+	</div>
+
+
+	<script>
+		var socket = io.connect();
+
+		function fetcher(){
+			console.log("Button Pressed");
+			socket.emit('fetch_data');
+		}
+	</script>
+</body>
