@@ -29,5 +29,10 @@
 			console.log("Button Pressed");
 			socket.emit('fetch_data');
 		}
+
+		socket.on('senddata', function(data){
+			document.getElementById("content").append(data);
+		});
+		
 	</script>
 </body>
